@@ -1,0 +1,10 @@
+Ezbuilder Update Tool 1.0
+貼上URL
+選擇檔案
+安裝檔案
+關於
+離開
+Profile安裝檔
+profile 安裝開始
+profile 安裝完畢
+請輸入安裝檔案位置

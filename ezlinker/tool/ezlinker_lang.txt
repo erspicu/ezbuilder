@@ -1,0 +1,8 @@
+檔案位置
+選擇檔案
+改變預設輸出路徑
+建立檔案連結
+離開程式
+Ezbuilder File Linker 0.2
+關於本程式
+預設MediaFile目錄

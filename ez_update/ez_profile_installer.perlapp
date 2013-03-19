@@ -1,0 +1,38 @@
+#!C:\Program Files\ActiveState Perl Dev Kit 6.0\bin\lib\pai.exe
+PAP-Version: 1.0
+Packer: C:\Program Files\ActiveState Perl Dev Kit 6.0\bin\perlapp.exe
+Script: ez_profile_installer.pl
+Cwd: F:\programming\ez_update
+Clean: 0
+Date: 2008-12-20 16:42:10
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: ez_profile_installer.exe
+Force: 0
+Gui: 0
+Hostname: 888tiger-89e85f
+Icon: myico-8bit.ico
+No-Compress: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Tmpdir: 
+Trim: utf8
+Trim: Errno
+Trim: PerlIO
+Trim: File::Glob
+Trim: attributes
+Trim: PerlIO::scalar
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: copyright erspicu_brox
+Version-FileDescription: 2009.01.01
+Version-FileVersion: 
+Version-InternalName: 
+Version-LegalCopyright: 
+Version-LegalTrademarks: 
+Version-OriginalFilename: 
+Version-ProductName: 
+Version-ProductVersion: 
+Xclude: 0
